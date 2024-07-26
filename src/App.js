@@ -28,8 +28,6 @@ export default function App() {
             <li style={{ margin: 20 }}>
               <Link to="/otp">OtpLogin</Link>
             </li>
-
-
             <li style={{ margin: 20 }}>
               <Link to="/pagination">Pagination</Link>
             </li>
